@@ -58,10 +58,10 @@ Bu repo, React'ta profesyonel yetkinliğe ulaşmayı hedefleyen adım adım bir 
 [Yazılım Geliştirici] olarak react konularını öğrenilmesi ve profesyonel anlamda yetkin olunması isteniyor. böylelikle, bu çalışmada öğrenilen bilgiler ve edinilen deneyimler ile react kodları geliştirebilecek, bu konuda sorumluluk alınabilecektir. 
 
 ## Kabul kriterleri
-- <input type="checkbox"/>en az beş react projesini yayınlanılması
-- <input type="checkbox"/>codepen.io gibi araçlarla react componentleri geliştirilmesi
-- <input type="checkbox"/>linkedin skill assesment ile başarılı test sonucu alınması
-- <input type="checkbox"/>[Yazılım Geliştirici] [kominity]lerinde en az üç paylaşım yapılması 
+- [ ]en az beş react projesini yayınlanılması
+- [ ]codepen.io gibi araçlarla react componentleri geliştirilmesi
+- [ ]linkedin skill assesment ile başarılı test sonucu alınması
+- [ ][Yazılım Geliştirici] [kominity]lerinde en az üç paylaşım yapılması 
 gerekmekte.
 
 ---
